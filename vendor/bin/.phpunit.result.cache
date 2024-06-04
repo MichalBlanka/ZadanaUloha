@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"BooksClientTest::testGetBooks":0.376,"BooksClientTest::testGetBookById":0.226,"BooksClientTest::testInvalidId":0.001}}
